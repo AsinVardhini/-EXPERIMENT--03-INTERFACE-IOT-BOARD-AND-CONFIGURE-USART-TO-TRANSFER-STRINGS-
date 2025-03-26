@@ -77,9 +77,9 @@ int main(void)
   
   {
   
-	  printf("SRINITHI V\n");
+	  printf("CSE(Cyber Security\n");
    
-	  HAL_Delay(500);
+	  HAL_Delay(1000);
    
   }
   
@@ -250,9 +250,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots of Serial port utility   :
- ![image](https://github.com/AsinVardhini/-EXPERIMENT--03-INTERFACE-IOT-BOARD-AND-CONFIGURE-USART-TO-TRANSFER-STRINGS-/assets/119417735/215a6514-80f6-48dc-bbce-06f46d1bbce0)
 
- 
+ ![image](https://github.com/user-attachments/assets/2ac77300-9232-4f43-a608-43f9f08ce2b8)
+
  
  
 ## Result :
